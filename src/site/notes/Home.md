@@ -11,6 +11,8 @@ ___
 Bootstrapped is a MSPA style adventure. written by my excellent wife, Phoebe. 
 It is currently updating. You can read it here.
 
+## Media
+[[Media/To Preclude A Bootstrap\|To Preclude A Bootstrap]]
 
 ## Players
 [[Characters/Players/Ruby Bennett\|Ruby Bennett]]
