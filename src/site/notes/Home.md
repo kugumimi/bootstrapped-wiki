@@ -12,3 +12,11 @@ Bootstrapped is a MSPA style adventure. written by my excellent wife, Phoebe.
 It is currently updating. You can read it here.
 
 
+## Players
+[[Characters/Players/Ruby Bennett\|Ruby Bennett]]
+[[Characters/Players/Lucy DeSade\|Lucy DeSade]]
+[[Characters/Players/Dora LeNoire\|Dora LeNoire]]
+[[Characters/Players/Mira Bielich\|Mira Bielich]]
+
+## Locations
+[[Locations/Ruby's House\|Ruby's House]]
