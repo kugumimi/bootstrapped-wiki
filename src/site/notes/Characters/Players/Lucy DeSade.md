@@ -13,9 +13,9 @@
 > | Introduction | First Appearance |
 > | ---- |  --- |
 > | **Title** |  Knight of Space  |
-> | **Age** | 19 |
+> | **Age** | 23 |
 > | **Chumhandle** | gnosticTsunami  |
-> | **Typing Quirk** | Capitalisation, talks like a YouTuber. |
+> | **Typing Quirk** | Perfect grammar and punctuation. Not as deadpan as Ruby, but certainly not as emotive as Mira. Meek with expressing emotions even if among trusted company, but can be eked out if you gain her trust. Terminal RBF but likes to give small, delicate smiles. |
 > | **Strife Specib**i | unconfirmed |
 > | **Fetch Modus** | unconfirmed |
 > | **Planet** | unconfirmed |

@@ -13,9 +13,9 @@
 > | Introduction | First Appearance |
 > | ---- |  --- |
 > | **Title** |  Prince of Void  |
-> | **Age** | 19 |
+> | **Age** | 21 |
 > | **Chumhandle** | cthonicGnarling  |
-> | **Typing Quirk** | Capitalisation, talks like a YouTuber. |
+> | **Typing Quirk** | no capitalization, excessive punctuation with the exception of periods and utilizes much more abbreviations than the rest of the crew as well as various other quirky phrases and internet eccentricities |
 > | **Strife Specib**i | unconfirmed |
 > | **Fetch Modus** | unconfirmed |
 > | **Planet** | unconfirmed |

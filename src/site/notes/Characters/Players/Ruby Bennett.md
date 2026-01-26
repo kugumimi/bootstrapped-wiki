@@ -15,9 +15,9 @@
 > | Introduction | First Appearance |
 > | ---- |  --- |
 > | **Title** |  Rogue of Hope  |
-> | **Age** | 19 |
+> | **Age** | 22 |
 > | **Chumhandle** | achingTrachea  |
-> | **Typing Quirk** | Like Rose if she was a cool cat. |
+> | **Typing Quirk** | Capitalization and punctuation. Generally gets all of her words out in a single message, occasionally two. Rarely uses a question mark when asking something, only when majorly confused or upset. Blunt and unafraid to dictate emotional response to a situation. |
 > | **Strife Specib**i | unconfirmed |
 > | **Fetch Modus** | unconfirmed |
 > | **Planet** | unconfirmed |

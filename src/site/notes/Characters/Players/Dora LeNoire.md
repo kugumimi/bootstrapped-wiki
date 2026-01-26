@@ -13,9 +13,9 @@
 > | Introduction | First Appearance |
 > | ---- |  --- |
 > | **Title** |  Seer of Time  |
-> | **Age** | 19 |
+> | **Age** | 21 |
 > | **Chumhandle** | analepticAnaphylaxis  |
-> | **Typing Quirk** | lowercase, snarky but cute |
+> | **Typing Quirk** | no capitalization. no commas but will use periods if what she has to say requires more than a single sentence but ends off a thought with no punctuation. kinda wordy and gets wrapped up in elaborating too much. generally very polite but can be quite mean when annoyed |
 > | **Strife Specib**i | unconfirmed |
 > | **Fetch Modus** | unconfirmed |
 > | **Planet** | unconfirmed |
