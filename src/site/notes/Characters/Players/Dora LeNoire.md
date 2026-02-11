@@ -17,7 +17,7 @@
 > | **Chumhandle** | analepticAnaphylaxis  |
 > | **Typing Quirk** | no capitalization. no commas but will use periods if what she has to say requires more than a single sentence but ends off a thought with no punctuation. kinda wordy and gets wrapped up in elaborating too much. generally very polite but can be quite mean when annoyed |
 > | **Strife Specib**i | unconfirmed |
-> | **Fetch Modus** | unconfirmed |
+> | **Fetch Modus** | Sierrakind |
 > | **Planet** | unconfirmed |
 
 
@@ -49,6 +49,7 @@ The world is draped in a camouflage called midnight.
 # Development
 
 ![Pasted image 20260111164131.png](/img/user/Meta/attachments/Pasted%20image%2020260111164131.png)![Pasted image 20260112183459.png](/img/user/Meta/attachments/Pasted%20image%2020260112183459.png)
+![sierrakind.png](/img/user/Meta/attachments/sierrakind.png)
 
 **Interests:**
 Cryptozoology
