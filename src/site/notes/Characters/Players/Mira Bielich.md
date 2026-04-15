@@ -13,7 +13,7 @@
 > | Introduction | First Appearance |
 > | ---- |  --- |
 > | **Title** |  Prince of Void  |
-> | **Age** | 21 |
+> | **Age** | 21, born 7/7/2004|
 > | **Chumhandle** | cthonicGnarling  |
 > | **Typing Quirk** | no capitalization, excessive punctuation with the exception of periods and utilizes much more abbreviations than the rest of the crew as well as various other quirky phrases and internet eccentricities |
 > | **Strife Specib**i | unconfirmed |
@@ -24,13 +24,7 @@ lesbianism
 
 # Biography
 
-lorem ipsum lalalala
-**Before the game**
-etc etc
 
-- lists 
-- testing
-- test
 
 # Relationships
 
