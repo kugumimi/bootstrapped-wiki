@@ -13,7 +13,7 @@
 > | Introduction | First Appearance |
 > | ---- |  --- |
 > | **Title** |  Knight of Space  |
-> | **Age** | 23 |
+> | **Age** | 23, born 17/11/2002|
 > | **Chumhandle** | gnosticTsunami  |
 > | **Typing Quirk** | Perfect grammar and punctuation. Not as deadpan as Ruby, but certainly not as emotive as Mira. Meek with expressing emotions even if among trusted company, but can be eked out if you gain her trust. Terminal RBF but likes to give small, delicate smiles. |
 > | **Strife Specib**i | unconfirmed |
