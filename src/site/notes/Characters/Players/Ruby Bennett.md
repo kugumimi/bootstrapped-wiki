@@ -15,7 +15,7 @@
 > | Introduction | First Appearance |
 > | ---- |  --- |
 > | **Title** |  Rogue of Hope  |
-> | **Age** | 22 |
+> | **Age** | 22, born 16/08/2003 |
 > | **Chumhandle** | achingTrachea  |
 > | **Typing Quirk** | Capitalization and punctuation. Generally gets all of her words out in a single message, occasionally two. Rarely uses a question mark when asking something, only when majorly confused or upset. Blunt and unafraid to dictate emotional response to a situation. |
 > | **Strife Specib**i | unconfirmed |
