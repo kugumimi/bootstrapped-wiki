@@ -29,6 +29,11 @@ She is the first to appear and be named.
 # Biography
 Ruby was born in the Midwestern Region of the USA.
 
+## Interests
+
+Tv quiz game shows. Specifically like, when they show up in games or related media.
+
+
 
 # Relationships
 
