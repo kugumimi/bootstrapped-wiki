@@ -13,7 +13,7 @@
 > | Introduction | First Appearance |
 > | ---- |  --- |
 > | **Title** |  Seer of Time  |
-> | **Age** | 21 |
+> | **Age** | 21, born 2/2/2005|
 > | **Chumhandle** | analepticAnaphylaxis  |
 > | **Typing Quirk** | no capitalization. no commas but will use periods if what she has to say requires more than a single sentence but ends off a thought with no punctuation. kinda wordy and gets wrapped up in elaborating too much. generally very polite but can be quite mean when annoyed |
 > | **Strife Specib**i | unconfirmed |
